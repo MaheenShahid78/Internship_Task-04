@@ -212,12 +212,6 @@ The program displays:
 
 ---
 
-## Author
-
-**Maheen Shahid**
-
----
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out.
