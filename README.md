@@ -167,7 +167,7 @@ cd Internship_Task-04
 pip install pandas numpy matplotlib
 ```
 
-### Run the project
+### Run the task
 
 ```bash
 python "Task 4.py"
